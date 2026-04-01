@@ -46,3 +46,5 @@ I had the AI whip up some possible fixes (these are just a bunch of words, but p
 * *Liquidity Aggregation Protocol for Public Infrastructure*
 * *The Genesis Layer: A Thin Protocol for Solving the Collective Action Trap*
 * *Support for Massive Decentralized infrastructure*
+
+[Read and comment on LessWrong](https://www.lesswrong.com/posts/Wioq6pzPSdNe4Bn9y/the-cold-start-trap-why-the-best-social-infrastructure)
