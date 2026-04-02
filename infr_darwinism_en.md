@@ -38,7 +38,7 @@ As a result, the "best" projects—those with superior architecture, equity, or 
 
 Infrastructural Darwinism implies that global systems evolve not through conscious collective intelligence but through a Darwinian lottery biased toward incumbents. This raises the stakes for inaction, as unaddressed infrastructure deficits hinder progress in medicine, governance, finance, and information integrity.The originating discussion questions whether an alternative mechanism can be created—one that overcomes the cold start through conscious unity among those recognizing the need for change, bypassing both manipulative marketing and centralized funding. No fully realized solution is proposed, but the concept calls for environments enabling merit-based evaluation and coordinated launch without reliance on destructive competition.
 ## See also:
-- Cold start problem (technology)
+- [Cold start problem](./coldstart_en.md)
 - Network effect
 - Platform ecosystem
 - Decentralized technology adoption
