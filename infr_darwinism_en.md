@@ -45,3 +45,6 @@ Infrastructural Darwinism implies that global systems evolve not through conscio
 
 ## References
 [Why the Best Infrastructure Projects Never Take Off](./coldstart_en.md). The text introduces the term "Infrastructural Darwinism" and analyzes the selective pressures on social infrastructure projects.
+
+Permaweb id (arweave) tZ76xx7yNAnYu0Ln1u938ggLaLhuBnClsu6_zVOz_VE
+
