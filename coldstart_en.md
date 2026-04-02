@@ -48,3 +48,6 @@ I had the AI whip up some possible fixes (these are just a bunch of words, but p
 * *Support for Massive Decentralized infrastructure*
 
 [Read and comment on LessWrong](https://www.lesswrong.com/posts/Wioq6pzPSdNe4Bn9y/the-cold-start-trap-why-the-best-social-infrastructure)
+
+Permaweb id (arweave) zZxczIJPjrFxVMXc0N_jv0_vO753BjkQajRJEyay_dg
+
