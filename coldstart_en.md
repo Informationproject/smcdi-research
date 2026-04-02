@@ -17,7 +17,7 @@ Big funding (grants, VCs, governments). They rarely pay for things that take pow
 Pure volunteer cooperation. To coordinate millions without a center you need… coordination infrastructure. Which doesn’t exist yet. So the circle continues.
 
 
-Instead we get "infrastructural Darwinism": the winners are usually the projects with:
+Instead we get "[infrastructural Darwinism](./infr_darwinism_en.md)": the winners are usually the projects with:
 - the biggest marketing budget
 - the best timing / hype wave
 - the most aggressive growth tricks
