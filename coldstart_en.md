@@ -1,4 +1,5 @@
 # Why the Best Infrastructure Projects Never Take Off
+*02 Apr 2026 / informationprt(at)gmail.com*
 
 We already know how to build amazing systems: private medical data sharing, reliable truth-checking tools, fair collective decision-making platforms. Good designs exist on GitHub and in papers. Neural networks can generate even more in minutes.
 
