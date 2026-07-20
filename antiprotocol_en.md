@@ -1,7 +1,7 @@
 # Anti-Protocol
 /Self-Coordination at Unlimited Scale/
 
-*02 Apr 2026 / informationprt(at)gmail.com*
+*17 Jul 2026 / informationprt(at)gmail.com*
 
 ![Anti-protocol detailed infographics](./Antiprotocol_full.png)
 
