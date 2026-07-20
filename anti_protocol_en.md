@@ -1,33 +1,11 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
----
-
 # Anti-Protocol
 
-## Anti-Protocol
 
 /Self-Coordination at Unlimited Scale/
 
 _17 Jul 2026 / informationprt(at)gmail.com_
 
-![Anti-protocol detailed infographics](.gitbook/assets/Antiprotocol_full.png)
+![Anti-protocol detailed infographics](./Antiprotocol_full.png)
 
 ## Why anti?
 
